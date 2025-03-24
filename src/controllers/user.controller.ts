@@ -1,9 +1,10 @@
 import { Request, Response, NextFunction } from "express";
 import jwt from "jsonwebtoken";
-import bcrypt from "bcryptjs";
+import argon2 from "argon2";
 
 import { registerSchema, loginSchema } from "../validators/userValidator";
 import prisma from "../../prisma";
+import { v4 as uuidv4 } from "uuid";
 
 const JWT_SECRET = process.env.JWT_SECRET || "";
 
@@ -23,8 +24,7 @@ export const registerUser = async (
     if (existingUser) {
       return res.status(400).json({ message: "User already exists" });
     }
-
-    const hashedPassword = await bcrypt.hash(password, 10);
+    const hashedPassword = await argon2.hash(password);
 
     await prisma.user.create({
       data: {
@@ -52,10 +52,10 @@ export const login = async (
     const { email, password } = parsedData;
 
     const user = await prisma.user.findUnique({ where: { email } });
-    if (!user) return res.status(401).json({ message: "Invalid credentials" });
+    if (!user) return res.status(401).json({ message: "User does not exist" });
 
     // Compare password
-    const isMatch = await bcrypt.compare(password, user.password);
+    const isMatch = await argon2.verify(user.password, password);
     if (!isMatch)
       return res.status(401).json({ message: "Invalid credentials" });
 
@@ -69,7 +69,35 @@ export const login = async (
       expiresIn: "1h",
     });
 
-    return res.status(200).json({ token });
+    const ipAddress = req.headers["x-forwarded-for"] || req.socket.remoteAddress;
+    const userAgent = req.headers["user-agent"];
+
+     // Generate refresh token
+     const refreshToken = uuidv4();
+     const expiresAt = new Date();
+     const expiryDays = Number(process.env.REFRESH_TOKEN_EXPIRY_DAYS) || 7;
+     expiresAt.setDate(expiresAt.getDate() + expiryDays);
+ 
+     // Create or update session
+   // Invalidate old active sessions for the user
+   await prisma.session.updateMany({
+    where: { userId: user.id, isActive: true },
+    data: { isActive: false },
+  });
+
+  // Create new session
+  await prisma.session.create({
+    data: {
+      userId: user.id,
+      refreshToken,
+      expiresAt,
+      ipAddress: ipAddress as string,
+      deviceId: userAgent,
+      isActive: true,
+    },
+  });
+
+    return res.status(200).json({ token, refreshToken });
   } catch (error) {
     next(error);
   }

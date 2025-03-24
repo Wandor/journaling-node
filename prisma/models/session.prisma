@@ -1,8 +1,11 @@
 model Session {
-  id         String  @id @default(uuid())
-  userId     String  @unique
+  id          String  @id @default(uuid())
+  userId      String  
   refreshToken String
-  createdAt  DateTime @default(now())
-  expiresAt  DateTime
-  user       User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  ipAddress   String @default("Unknown")
+  deviceId    String?
+  isActive    Boolean @default(true)
+  createdAt   DateTime @default(now())
+  expiresAt   DateTime
+  user        User    @relation(fields: [userId], references: [id], onDelete: Cascade)
 }

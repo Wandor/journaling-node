@@ -1,11 +1,10 @@
 import request from "supertest";
 import app from "../app";
-import bcrypt from "bcryptjs";
+import argon2 from "argon2";
 import { UserRole } from "@prisma/client";
 import { prismaMock } from "../../prisma/singleton";
 
-jest.mock("bcryptjs");
-
+jest.mock("argon2");
 
 describe("User Registration", () => {
   const mockUser = {
@@ -30,13 +29,13 @@ describe("User Registration", () => {
   it("should hash the password before saving the user", async () => {
     const hashedPassword = "hashed-password";
 
-    // Mock bcrypt.hash to return a fake hash
-    (bcrypt.hash as jest.Mock).mockResolvedValue(hashedPassword);
+    // Mock argon2.hash to return a fake hash
+    (argon2.hash as jest.Mock).mockResolvedValue(hashedPassword);
 
     prismaMock.user.findUnique.mockResolvedValue(null);
     prismaMock.user.create.mockResolvedValue({
       ...mockUser,
-      password: hashedPassword, // Simulate Prisma returning a hashed password
+      password: hashedPassword,
     });
 
     const response = await request(app)
@@ -44,7 +43,7 @@ describe("User Registration", () => {
       .send(mockUser)
       .expect(201);
 
-    expect(bcrypt.hash).toHaveBeenCalledWith(mockUser.password, expect.any(Number));
+    expect(argon2.hash).toHaveBeenCalledWith(mockUser.password);
     expect(prismaMock.user.create).toHaveBeenCalledWith(
       expect.objectContaining({
         data: expect.objectContaining({ password: hashedPassword }),
@@ -100,7 +99,9 @@ describe("User Registration", () => {
   });
 
   it("should return 500 on server error", async () => {
-    prismaMock.user.findUnique.mockRejectedValue(new Error("Internal server error"));
+    prismaMock.user.findUnique.mockRejectedValue(
+      new Error("Internal server error")
+    );
 
     const response = await request(app)
       .post("/api/auth/register")
