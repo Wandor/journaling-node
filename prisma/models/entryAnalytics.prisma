@@ -1,0 +1,15 @@
+model AnalyticsData {
+  id                  String   @id @default(uuid())
+  journalId           String   @unique
+  journal             JournalEntry @relation(fields: [journalId], references: [id], onDelete: Cascade)
+  wordCount           Int
+  characterCount      Int
+  sentenceCount       Int
+  readingTime         Int
+  averageSentenceLength Float
+  tagsCount           Int
+  categoriesCount     Int
+  entryDate           DateTime
+  timeOfDay           String
+  createdAt           DateTime @default(now())
+}

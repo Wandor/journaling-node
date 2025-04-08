@@ -1,9 +1,3 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
   provider = "prisma-client-js"
 }
@@ -11,4 +5,194 @@ generator client {
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
+}
+
+
+model Category {
+  id             String         @id @default(uuid())
+  name           String
+  userId         String?
+  journalEntries JournalEntryCategory[]
+
+  user           User?           @relation(fields: [userId], references: [id])
+
+  @@unique([name, userId])
+}
+
+
+model AnalyticsData {
+  id                  String   @id @default(uuid())
+  journalId           String   @unique
+  journal             JournalEntry @relation(fields: [journalId], references: [id], onDelete: Cascade)
+  wordCount           Int
+  characterCount      Int
+  sentenceCount       Int
+  readingTime         Int
+  averageSentenceLength Float
+  tagsCount           Int
+  categoriesCount     Int
+  entryDate           DateTime
+  timeOfDay           String
+  createdAt           DateTime @default(now())
+}
+
+
+model JournalEntry {
+  id         String            @id @default(uuid())
+  title      String?
+  content    String
+  summary    String?
+  entryDate  DateTime          @default(now())
+  createdAt  DateTime          @default(now())
+  updatedAt  DateTime          @updatedAt
+  userId     String?
+  user       User?             @relation(fields: [userId], references: [id])
+  tags       JournalEntryTag[]
+  categories JournalEntryCategory[]
+  sentiment  SentimentScore?
+  analytics  AnalyticsData?
+}
+
+
+model JournalEntryCategory {
+    journalEntryId String
+    categoryId     String
+    journalEntry   JournalEntry @relation(fields: [journalEntryId], references: [id], onDelete: Cascade)
+    category       Category     @relation(fields: [categoryId], references: [id])
+
+    @@id([journalEntryId, categoryId])
+}
+
+
+model JournalEntryTag {
+    journalEntryId String
+    tagId          String
+    journalEntry   JournalEntry @relation(fields: [journalEntryId], references: [id], onDelete: Cascade)
+    tag            Tag          @relation(fields: [tagId], references: [id])
+
+    @@id([journalEntryId, tagId])
+}
+
+
+enum Mood {
+  POSITIVE
+  NEGATIVE
+  NEUTRAL
+}
+
+
+model Password {
+  id              String   @id @default(uuid())
+  password        String
+  userId          String
+  isActive        Boolean  @default(true)
+  passwordExpiry  DateTime
+  createdAt       DateTime @default(now())
+  clusteredId     Int      @default(autoincrement())
+  user    User     @relation(fields: [userId], references: [id] , onDelete: Cascade)
+}
+
+
+enum UserRole {
+  USER
+  ADMIN
+}
+
+model SentimentScore {
+  id            String       @id @default(uuid())
+  journalId     String       @unique
+  journal       JournalEntry @relation(fields: [journalId], references: [id], onDelete: Cascade)
+  score         Float
+  magnitude     Float
+  mood          String
+  calculation   Json
+  positiveWords String
+  negativeWords String
+  createdAt     DateTime     @default(now())
+}
+
+
+model Session {
+  id                 String    @id @default(uuid())
+  userId             String
+  otpValue           String?
+  otpExpiry          DateTime?
+  refreshToken       String
+  refreshTokenExpiry DateTime  @default(now())
+  otpVerified        Boolean   @default(true)
+  sessionStart       DateTime  @default(now())
+  sessionEnd         DateTime?
+  sessionStatus      Boolean   @default(true)
+  clusteredId        Int       @default(autoincrement())
+
+  ipAddress String  @default("Unknown")
+  deviceId  String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId]) 
+}
+
+
+model Tag {
+  id             String         @id @default(uuid())
+  name           String
+  userId         String?
+  journalEntries JournalEntryTag[]
+
+  user           User?           @relation(fields: [userId], references: [id])
+
+  @@unique([name, userId])
+}
+
+
+enum TimeOfDay {
+  MORNING
+  AFTERNOON
+  EVENING
+}
+
+model User {
+  id                      String    @id @default(uuid())
+  userName                String?
+  firstName               String
+  lastName                String
+  emailAddress            String    @unique
+  mobileNumber            String
+  accessFailedCount       Int       @default(0)
+  otpResendCount          Int       @default(0)
+  isLockedOut             Boolean   @default(false)
+  status                  Boolean   @default(true)
+  otpSent                 Boolean   @default(false)
+  lastPasswordChangedDate DateTime?
+  lastOTPResendDate       DateTime?
+  lastLoginDate           DateTime?
+  role                    UserRole  @default(USER)
+  createdAt               DateTime  @default(now())
+  updatedAt               DateTime  @updatedAt
+
+  journalEntries JournalEntry[]
+  sessions       Session[]
+  passwords      Password[]
+  tags           Tag[]
+  categories     Category[]
+  preferences    UserPreferences?
+}
+
+
+model UserPreferences {
+    id                  String    @id @default(uuid())
+    userId              String    @unique
+    twoFactorEnabled    Boolean   @default(false)
+    enableNotifications Boolean   @default(true)
+    autoTag             Boolean   @default(true)
+    autoCategorize      Boolean   @default(true)
+    summarize           Boolean   @default(true)
+    reminderTime        DateTime?
+    language            String    @default("en")
+    timeZone            String    @default("UTC")
+    user                User?     @relation(fields: [userId], references: [id])
+
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
 }

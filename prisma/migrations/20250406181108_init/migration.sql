@@ -1,0 +1,2 @@
+-- CreateEnum
+CREATE TYPE "Mood" AS ENUM ('POSITIVE', 'NEGATIVE', 'NEUTRAL');

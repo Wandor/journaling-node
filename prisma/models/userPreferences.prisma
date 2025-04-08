@@ -1,0 +1,16 @@
+model UserPreferences {
+    id                  String    @id @default(uuid())
+    userId              String    @unique
+    twoFactorEnabled    Boolean   @default(false)
+    enableNotifications Boolean   @default(true)
+    autoTag             Boolean   @default(true)
+    autoCategorize      Boolean   @default(true)
+    summarize           Boolean   @default(true)
+    reminderTime        DateTime?
+    language            String    @default("en")
+    timeZone            String    @default("UTC")
+    user                User?     @relation(fields: [userId], references: [id])
+
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+}

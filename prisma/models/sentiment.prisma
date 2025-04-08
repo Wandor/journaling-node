@@ -1,0 +1,12 @@
+model SentimentScore {
+  id            String       @id @default(uuid())
+  journalId     String       @unique
+  journal       JournalEntry @relation(fields: [journalId], references: [id], onDelete: Cascade)
+  score         Float
+  magnitude     Float
+  mood          String
+  calculation   Json
+  positiveWords String
+  negativeWords String
+  createdAt     DateTime     @default(now())
+}
