@@ -1,0 +1,635 @@
+[2025-04-04 10:23:11] ERROR (10220 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$O4FMl0EVebR2Vjid47RptA$l8NBN36QQGnBAxg+0T6iNSkQOH7mM9TePbA/Uun6VaE",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:23:11.824Z"),
+    refreshToken: "32bc79c0-0a8f-4c8a-ad36-f915b36c5a58",
+    refreshTokenExpiry: new Date("2025-04-05T19:23:11.824Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:23:11.824Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$O4FMl0EVebR2Vjid47RptA$l8NBN36QQGnBAxg+0T6iNSkQOH7mM9TePbA/Uun6VaE\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:23:11.824Z\"),\n    refreshToken: \"32bc79c0-0a8f-4c8a-ad36-f915b36c5a58\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:23:11.824Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:23:11.824Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$O4FMl0EVebR2Vjid47RptA$l8NBN36QQGnBAxg+0T6iNSkQOH7mM9TePbA/Uun6VaE",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:23:11.824Z"),
+              refreshToken: "32bc79c0-0a8f-4c8a-ad36-f915b36c5a58",
+              refreshTokenExpiry: new Date("2025-04-05T19:23:11.824Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:23:11.824Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:27:05] ERROR (10220 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$J+GBAV1Gn+W+BxZfNLztKw$A3sgPtnLBXzkUuGgGEYy8ACwQ/GnTGIQqXRR+wSZ4yA",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:27:05.288Z"),
+    refreshToken: "b780439b-db97-4282-b8c9-7c5d63a4d32f",
+    refreshTokenExpiry: new Date("2025-04-05T19:27:05.288Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:27:05.288Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$J+GBAV1Gn+W+BxZfNLztKw$A3sgPtnLBXzkUuGgGEYy8ACwQ/GnTGIQqXRR+wSZ4yA\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:27:05.288Z\"),\n    refreshToken: \"b780439b-db97-4282-b8c9-7c5d63a4d32f\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:27:05.288Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:27:05.288Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$J+GBAV1Gn+W+BxZfNLztKw$A3sgPtnLBXzkUuGgGEYy8ACwQ/GnTGIQqXRR+wSZ4yA",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:27:05.288Z"),
+              refreshToken: "b780439b-db97-4282-b8c9-7c5d63a4d32f",
+              refreshTokenExpiry: new Date("2025-04-05T19:27:05.288Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:27:05.288Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:27:39] ERROR (11345 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$Q834i2GEXfNkl0/KMjNlJA$8ZP6PpzQO5GVzuZrNT9irzZm8ii+fL4RZ0PSrA/qjog",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:27:39.584Z"),
+    refreshToken: "12823632-39ca-4c95-8e1e-4c750e1a8306",
+    refreshTokenExpiry: new Date("2025-04-05T19:27:39.584Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:27:39.584Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$Q834i2GEXfNkl0/KMjNlJA$8ZP6PpzQO5GVzuZrNT9irzZm8ii+fL4RZ0PSrA/qjog\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:27:39.584Z\"),\n    refreshToken: \"12823632-39ca-4c95-8e1e-4c750e1a8306\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:27:39.584Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:27:39.584Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$Q834i2GEXfNkl0/KMjNlJA$8ZP6PpzQO5GVzuZrNT9irzZm8ii+fL4RZ0PSrA/qjog",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:27:39.584Z"),
+              refreshToken: "12823632-39ca-4c95-8e1e-4c750e1a8306",
+              refreshTokenExpiry: new Date("2025-04-05T19:27:39.584Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:27:39.584Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:29:19] ERROR (11763 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$tIGrlYiVNMLb1lRkl0Xw/w$nCvqBs+jz111R2YyIru9jjuUbQSnqDkes6wk4WSDpIY",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:29:19.828Z"),
+    refreshToken: "080a0ef4-c9ea-4c91-9e54-0fafc9f1b5c9",
+    refreshTokenExpiry: new Date("2025-04-05T19:29:19.828Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:29:19.828Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$tIGrlYiVNMLb1lRkl0Xw/w$nCvqBs+jz111R2YyIru9jjuUbQSnqDkes6wk4WSDpIY\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:29:19.828Z\"),\n    refreshToken: \"080a0ef4-c9ea-4c91-9e54-0fafc9f1b5c9\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:29:19.828Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:29:19.828Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$tIGrlYiVNMLb1lRkl0Xw/w$nCvqBs+jz111R2YyIru9jjuUbQSnqDkes6wk4WSDpIY",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:29:19.828Z"),
+              refreshToken: "080a0ef4-c9ea-4c91-9e54-0fafc9f1b5c9",
+              refreshTokenExpiry: new Date("2025-04-05T19:29:19.828Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:29:19.828Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:30:09] ERROR (11941 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$fnGnnxCefowNtMt2ZwcoUg$O6xH3vvVYhuMIAVEu2C02jM9tG8ZRMq1npiUyQMqAaA",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:30:09.261Z"),
+    refreshToken: "e1cd119f-6a67-4c5e-b63b-be049c7a7bb7",
+    refreshTokenExpiry: new Date("2025-04-05T19:30:09.261Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:30:09.261Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$fnGnnxCefowNtMt2ZwcoUg$O6xH3vvVYhuMIAVEu2C02jM9tG8ZRMq1npiUyQMqAaA\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:30:09.261Z\"),\n    refreshToken: \"e1cd119f-6a67-4c5e-b63b-be049c7a7bb7\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:30:09.261Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:30:09.261Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$fnGnnxCefowNtMt2ZwcoUg$O6xH3vvVYhuMIAVEu2C02jM9tG8ZRMq1npiUyQMqAaA",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:30:09.261Z"),
+              refreshToken: "e1cd119f-6a67-4c5e-b63b-be049c7a7bb7",
+              refreshTokenExpiry: new Date("2025-04-05T19:30:09.261Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:30:09.261Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:31:53] ERROR (12330 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$VUjT4ws84KaG8s3wqVxypA$94kRDpVhwZgvVV3tOUXk6n0vUNwhMrQP0QugFNLfoH4",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:31:53.161Z"),
+    refreshToken: "c9ff3507-1547-4334-86b0-a7dbc1ec2668",
+    refreshTokenExpiry: new Date("2025-04-05T19:31:53.161Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:31:53.161Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$VUjT4ws84KaG8s3wqVxypA$94kRDpVhwZgvVV3tOUXk6n0vUNwhMrQP0QugFNLfoH4\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:31:53.161Z\"),\n    refreshToken: \"c9ff3507-1547-4334-86b0-a7dbc1ec2668\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:31:53.161Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:31:53.161Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$VUjT4ws84KaG8s3wqVxypA$94kRDpVhwZgvVV3tOUXk6n0vUNwhMrQP0QugFNLfoH4",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:31:53.161Z"),
+              refreshToken: "c9ff3507-1547-4334-86b0-a7dbc1ec2668",
+              refreshTokenExpiry: new Date("2025-04-05T19:31:53.161Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:31:53.161Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:32:33] ERROR (12733 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$rD74vlZk3WVlWwkVbv8taA$EBQu85rQvKuJRUcHoFYluKUOt1OtkGh0kpIuupkV34Q",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:32:33.617Z"),
+    refreshToken: "7c3d8825-a2d3-42f7-b5ce-023baf798b11",
+    refreshTokenExpiry: new Date("2025-04-05T19:32:33.617Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:32:33.617Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$rD74vlZk3WVlWwkVbv8taA$EBQu85rQvKuJRUcHoFYluKUOt1OtkGh0kpIuupkV34Q\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:32:33.617Z\"),\n    refreshToken: \"7c3d8825-a2d3-42f7-b5ce-023baf798b11\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:32:33.617Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:32:33.617Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$rD74vlZk3WVlWwkVbv8taA$EBQu85rQvKuJRUcHoFYluKUOt1OtkGh0kpIuupkV34Q",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:32:33.617Z"),
+              refreshToken: "7c3d8825-a2d3-42f7-b5ce-023baf798b11",
+              refreshTokenExpiry: new Date("2025-04-05T19:32:33.617Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:32:33.617Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:33:27] ERROR (13015 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$ODdfgId+5d2W3IpB5h++0Q$Uvwni/dyK7cRw0btAz3SyvxCBiCW9Fcskd+W5dnzG3I",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:33:27.477Z"),
+    refreshToken: "778ae1e8-cb5f-4f81-9a9d-94a066a746f6",
+    refreshTokenExpiry: new Date("2025-04-05T19:33:27.477Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:33:27.477Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$ODdfgId+5d2W3IpB5h++0Q$Uvwni/dyK7cRw0btAz3SyvxCBiCW9Fcskd+W5dnzG3I\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:33:27.477Z\"),\n    refreshToken: \"778ae1e8-cb5f-4f81-9a9d-94a066a746f6\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:33:27.477Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:33:27.477Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$ODdfgId+5d2W3IpB5h++0Q$Uvwni/dyK7cRw0btAz3SyvxCBiCW9Fcskd+W5dnzG3I",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:33:27.477Z"),
+              refreshToken: "778ae1e8-cb5f-4f81-9a9d-94a066a746f6",
+              refreshTokenExpiry: new Date("2025-04-05T19:33:27.477Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:33:27.477Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:47:16] ERROR (16305 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$VY8B6DPdVcb6Awt7zhC3Rg$U1hZPVg6hKJRh+7sXJMXeoS4zPz84VRNUo/V5CcNnHM",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:47:16.713Z"),
+    refreshToken: "b8cc972a-6831-4837-b04f-adc7beaeae69",
+    refreshTokenExpiry: new Date("2025-04-05T19:47:16.713Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:47:16.713Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$VY8B6DPdVcb6Awt7zhC3Rg$U1hZPVg6hKJRh+7sXJMXeoS4zPz84VRNUo/V5CcNnHM\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:47:16.713Z\"),\n    refreshToken: \"b8cc972a-6831-4837-b04f-adc7beaeae69\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:47:16.713Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:47:16.713Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$VY8B6DPdVcb6Awt7zhC3Rg$U1hZPVg6hKJRh+7sXJMXeoS4zPz84VRNUo/V5CcNnHM",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:47:16.713Z"),
+              refreshToken: "b8cc972a-6831-4837-b04f-adc7beaeae69",
+              refreshTokenExpiry: new Date("2025-04-05T19:47:16.713Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:47:16.713Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:48:41] ERROR (16703 on Jermaines-MacBook-Pro.local): 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$FosXveNGLpfX21d0iH2E4A$FNTRNn1dNV/1CtjJmWelo6pbIYsz1aAgFk1Mozpbju0",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:48:41.927Z"),
+    refreshToken: "496314df-fe82-482b-8b9d-e2882d16b894",
+    refreshTokenExpiry: new Date("2025-04-05T19:48:41.927Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:48:41.927Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+    err: {
+      "type": "PrismaClientValidationError",
+      "message": "\nInvalid `prisma.session.create()` invocation:\n\n{\n  data: {\n    otpValue: \"$argon2id$v=19$m=65536,t=3,p=4$FosXveNGLpfX21d0iH2E4A$FNTRNn1dNV/1CtjJmWelo6pbIYsz1aAgFk1Mozpbju0\",\n    otpVerified: false,\n    otpExpiry: new Date(\"2025-04-04T20:48:41.927Z\"),\n    refreshToken: \"496314df-fe82-482b-8b9d-e2882d16b894\",\n    refreshTokenExpiry: new Date(\"2025-04-05T19:48:41.927Z\"),\n    userId: \"422fb7a8-9307-46a8-b189-f212735f3d58\",\n    sessionStart: new Date(\"2025-04-04T19:48:41.927Z\"),\n    sessionEnd: null,\n    sessionAddress: \"::1\",\n    ~~~~~~~~~~~~~~\n    sessionStatus: true,\n?   id?: String,\n?   clusteredId?: Int,\n?   ipAddress?: String,\n?   deviceId?: String | Null\n  }\n}\n\nUnknown argument `sessionAddress`. Available options are marked with ?.",
+      "stack":
+          PrismaClientValidationError: 
+          Invalid `prisma.session.create()` invocation:
+          
+          {
+            data: {
+              otpValue: "$argon2id$v=19$m=65536,t=3,p=4$FosXveNGLpfX21d0iH2E4A$FNTRNn1dNV/1CtjJmWelo6pbIYsz1aAgFk1Mozpbju0",
+              otpVerified: false,
+              otpExpiry: new Date("2025-04-04T20:48:41.927Z"),
+              refreshToken: "496314df-fe82-482b-8b9d-e2882d16b894",
+              refreshTokenExpiry: new Date("2025-04-05T19:48:41.927Z"),
+              userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+              sessionStart: new Date("2025-04-04T19:48:41.927Z"),
+              sessionEnd: null,
+              sessionAddress: "::1",
+              ~~~~~~~~~~~~~~
+              sessionStatus: true,
+          ?   id?: String,
+          ?   clusteredId?: Int,
+          ?   ipAddress?: String,
+          ?   deviceId?: String | Null
+            }
+          }
+          
+          Unknown argument `sessionAddress`. Available options are marked with ?.
+              at Cn (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:29:1363)
+              at Wn.handleRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:7177)
+              at Wn.handleAndLogRequestError (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6858)
+              at Wn.request (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:121:6565)
+              at async l (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/node_modules/@prisma/client/runtime/library.js:130:10067)
+      "name": "PrismaClientValidationError",
+      "clientVersion": "6.5.0"
+    }
+[2025-04-04 10:54:01] ERROR (18068 on Jermaines-MacBook-Pro.local): Error in Redis set operation: PrismaClientValidationError: 
+Invalid `prisma.session.create()` invocation:
+
+{
+  data: {
+    otpValue: "$argon2id$v=19$m=65536,t=3,p=4$sEWuioiEFt/7GdaZSC3pIQ$4uf7v4wJoBfFUPA5uve8uUoJjhsnCX06o+F1/R4d8c4",
+    otpVerified: false,
+    otpExpiry: new Date("2025-04-04T20:54:01.857Z"),
+    refreshToken: "18570a8e-dfae-444f-8fc2-a72e4fbad35e",
+    refreshTokenExpiry: new Date("2025-04-05T19:54:01.857Z"),
+    userId: "422fb7a8-9307-46a8-b189-f212735f3d58",
+    sessionStart: new Date("2025-04-04T19:54:01.857Z"),
+    sessionEnd: null,
+    sessionAddress: "::1",
+    ~~~~~~~~~~~~~~
+    sessionStatus: true,
+?   id?: String,
+?   clusteredId?: Int,
+?   ipAddress?: String,
+?   deviceId?: String | Null
+  }
+}
+
+Unknown argument `sessionAddress`. Available options are marked with ?.
+[2025-04-04 11:01:13] ERROR (20535 on Jermaines-MacBook-Pro.local): dataArray.filter is not a function
+    err: {
+      "type": "TypeError",
+      "message": "dataArray.filter is not a function",
+      "stack":
+          TypeError: dataArray.filter is not a function
+              at /Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/src/utils/redisUtil.ts:73:30
+              at Generator.next (<anonymous>)
+              at fulfilled (/Users/jermaine/Desktop/Projects/Personal/Interviews/journaling-node/src/utils/redisUtil.ts:5:58)
+              at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    }

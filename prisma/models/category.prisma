@@ -1,0 +1,10 @@
+model Category {
+  id             String         @id @default(uuid())
+  name           String
+  userId         String?
+  journalEntries JournalEntryCategory[]
+
+  user           User?           @relation(fields: [userId], references: [id])
+
+  @@unique([name, userId])
+}

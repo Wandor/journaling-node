@@ -1,11 +1,20 @@
 model Session {
-  id          String  @id @default(uuid())
-  userId      String  
-  refreshToken String
-  ipAddress   String @default("Unknown")
-  deviceId    String?
-  isActive    Boolean @default(true)
-  createdAt   DateTime @default(now())
-  expiresAt   DateTime
-  user        User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  id                 String    @id @default(uuid())
+  userId             String
+  otpValue           String?
+  otpExpiry          DateTime?
+  refreshToken       String
+  refreshTokenExpiry DateTime  @default(now())
+  otpVerified        Boolean   @default(true)
+  sessionStart       DateTime  @default(now())
+  sessionEnd         DateTime?
+  sessionStatus      Boolean   @default(true)
+  clusteredId        Int       @default(autoincrement())
+
+  ipAddress String  @default("Unknown")
+  deviceId  String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
 }

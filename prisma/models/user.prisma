@@ -1,13 +1,26 @@
 model User {
-  id        String         @id @default(uuid())
-  email     String         @unique
-  password  String
-  name      String
-  role      UserRole       @default(USER)
-  journals  JournalEntry[]
-  sessions  Session[]
-  createdAt DateTime       @default(now())
-  updatedAt DateTime       @updatedAt
-  lastLoginDate          DateTime? // Track last login time
-  lastPasswordChangeDate DateTime? // Track last password change time
+  id                      String    @id @default(uuid())
+  userName                String?
+  firstName               String
+  lastName                String
+  emailAddress            String    @unique
+  mobileNumber            String
+  accessFailedCount       Int       @default(0)
+  otpResendCount          Int       @default(0)
+  isLockedOut             Boolean   @default(false)
+  status                  Boolean   @default(true)
+  otpSent                 Boolean   @default(false)
+  lastPasswordChangedDate DateTime?
+  lastOTPResendDate       DateTime?
+  lastLoginDate           DateTime?
+  role                    UserRole  @default(USER)
+  createdAt               DateTime  @default(now())
+  updatedAt               DateTime  @updatedAt
+
+  journalEntries JournalEntry[]
+  sessions       Session[]
+  passwords      Password[]
+  tags           Tag[]
+  categories     Category[]
+  preferences    UserPreferences?
 }

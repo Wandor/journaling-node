@@ -1,0 +1,2 @@
+-- CreateEnum
+CREATE TYPE "TimeOfDay" AS ENUM ('MORNING', 'AFTERNOON', 'EVENING');

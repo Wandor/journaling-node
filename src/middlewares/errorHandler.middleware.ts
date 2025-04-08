@@ -1,5 +1,6 @@
 import { NextFunction, Request, Response } from "express";
 import { ZodError } from "zod";
+import logger from "../configs/logger";
 
 export const errorHandler = (
   err: any,
@@ -7,6 +8,7 @@ export const errorHandler = (
   res: Response,
   next: NextFunction
 ): any => {
+  logger.error(err);
   if (err instanceof ZodError) {
     const formattedErrors = err.errors.reduce((acc, curr) => {
       acc[curr.path.join(".")] = curr.message;

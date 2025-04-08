@@ -1,0 +1,20 @@
+{
+  "logging": {
+    "otherConfig": {
+      "stdout": true,
+      "httpConfig": {
+        "url": "http://localhost:8001/api/v1/exception-handler",
+        "headers": {
+          "MachineName": "JAY JOURNAL"
+        }
+      }
+    },
+    "prettyPrint": {},
+    "file": {},
+    "customLevels": {
+      "slow": 35
+    }
+  }
+}
+
+

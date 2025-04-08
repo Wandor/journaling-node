@@ -1,0 +1,735 @@
+[2025-04-07 8:06:30] INFO (19300 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:06:30] INFO (19300 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:06:30] INFO (19300 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:06:30] INFO (19300 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:06:31] INFO (19300 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:06:31] INFO (19300 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:06:31] INFO (19300 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:06:31] INFO (19300 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:06:31] INFO (19300 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:06:31] INFO (19300 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:06:32] INFO (19300 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:06:32] INFO (19300 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:06:50] INFO (19587 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:06:50] INFO (19587 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:06:50] INFO (19587 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:06:50] INFO (19587 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:03] INFO (20230 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:08:03] INFO (20230 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:08:03] INFO (20230 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:03] INFO (20230 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:15] INFO (20343 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:15] INFO (20343 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:32] INFO (20551 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:08:32] INFO (20551 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:08:32] INFO (20551 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:32] INFO (20551 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:35] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:35] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:36] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:36] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:36] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:36] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:36] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:36] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:37] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:37] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:37] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:37] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:37] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:37] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:08:38] INFO (20602 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:26] INFO (21509 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:10:26] INFO (21509 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:10:26] INFO (21509 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:26] INFO (21509 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:29] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:29] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:29] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:29] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:29] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:29] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:30] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:30] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:31] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:32] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:32] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:32] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:32] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:10:32] INFO (21557 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:10:32] INFO (21557 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:11:33] INFO (22118 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:11:33] INFO (22118 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:11:33] INFO (22118 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:11:33] INFO (22118 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:11:39] INFO (22252 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:11:39] INFO (22252 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:11:39] INFO (22252 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:11:39] INFO (22252 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:04] INFO (22895 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:13:04] INFO (22895 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:13:04] INFO (22895 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:04] INFO (22895 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:07] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:07] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:07] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:07] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:07] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:07] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:08] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:08] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:09] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:13:10] INFO (22950 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:02] INFO (23446 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:14:02] INFO (23446 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:14:02] INFO (23446 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:02] INFO (23446 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:05] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:05] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:05] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:05] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:05] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:05] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:06] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:06] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:07] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:14:08] INFO (23488 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:16:20] INFO (24562 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:16:20] INFO (24562 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:16:23] INFO (24562 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:16:23] INFO (24562 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:16:29] INFO (24697 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:16:29] INFO (24697 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:16:29] INFO (24697 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:16:29] INFO (24697 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:16:35] INFO (24782 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:16:35] INFO (24782 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:16:35] INFO (24782 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:16:35] INFO (24782 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:16:43] INFO (24902 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:16:43] INFO (24902 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:16:43] INFO (24902 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:16:43] INFO (24902 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:16:47] INFO (24962 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:16:47] INFO (24962 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:16:47] INFO (24962 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:16:47] INFO (24962 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:17:01] INFO (25115 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:17:01] INFO (25115 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:17:01] INFO (25115 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:17:01] INFO (25115 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:17:13] INFO (25243 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:17:13] INFO (25243 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:17:13] INFO (25243 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:17:13] INFO (25243 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:17:43] INFO (25603 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:17:43] INFO (25603 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:17:43] INFO (25603 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:17:43] INFO (25603 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:18:40] INFO (26058 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:18:40] INFO (26058 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:18:40] INFO (26058 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:18:40] INFO (26058 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:18:43] INFO (26131 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:18:43] INFO (26131 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:18:43] INFO (26131 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:18:43] INFO (26131 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:18:53] INFO (26289 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:18:53] INFO (26289 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:18:53] INFO (26289 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:18:53] INFO (26289 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:18:56] INFO (26357 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:18:56] INFO (26357 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:18:56] INFO (26357 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:18:56] INFO (26357 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:19:16] INFO (26604 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:19:18] INFO (26660 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:19:18] INFO (26660 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:19:18] INFO (26660 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:19:18] INFO (26660 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:19:26] INFO (26771 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:19:26] INFO (26771 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:19:26] INFO (26771 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:19:26] INFO (26771 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:19:30] INFO (26882 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:19:30] INFO (26882 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:19:30] INFO (26882 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:19:30] INFO (26882 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:19:52] INFO (27086 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:19:52] INFO (27086 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:19:52] INFO (27086 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:19:52] INFO (27086 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:19:58] INFO (27175 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:19:58] INFO (27175 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:19:58] INFO (27175 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:19:58] INFO (27175 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:20:06] INFO (27301 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:20:06] INFO (27301 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:20:06] INFO (27301 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:20:06] INFO (27301 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:20:12] INFO (27396 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:20:12] INFO (27396 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:20:12] INFO (27396 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:20:12] INFO (27396 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:20:38] INFO (27632 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:20:38] INFO (27632 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:20:38] INFO (27632 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:20:38] INFO (27632 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:20:45] INFO (27768 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:20:45] INFO (27768 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:20:45] INFO (27768 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:20:45] INFO (27768 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:20:56] INFO (27891 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:20:56] INFO (27891 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:20:56] INFO (27891 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:20:56] INFO (27891 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:01] INFO (27980 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:21:01] INFO (27980 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:21:01] INFO (27980 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:01] INFO (27980 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:13] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:13] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:14] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:14] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:15] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:15] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:15] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:15] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:16] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:16] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:16] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:16] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:16] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:16] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:17] INFO (28104 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:49] INFO (28451 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:21:49] INFO (28451 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:21:49] INFO (28451 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:49] INFO (28451 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:53] INFO (28530 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:21:53] INFO (28530 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:21:53] INFO (28530 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:53] INFO (28530 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:21:58] INFO (28657 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:21:58] INFO (28657 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:21:58] INFO (28657 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:21:58] INFO (28657 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:06] INFO (28755 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:22:06] INFO (28755 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:22:06] INFO (28755 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:06] INFO (28755 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:11] INFO (28844 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:22:12] INFO (28844 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:22:12] INFO (28844 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:12] INFO (28844 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:16] INFO (28924 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:22:16] INFO (28924 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:22:16] INFO (28924 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:16] INFO (28924 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:22] INFO (29013 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:22:22] INFO (29013 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:22:22] INFO (29013 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:22] INFO (29013 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:49] INFO (29250 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:22:49] INFO (29250 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:22:49] INFO (29250 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:49] INFO (29250 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:56] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:56] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:56] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:56] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:57] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:57] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:57] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:57] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:58] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:59] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:59] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:59] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:59] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:22:59] INFO (29330 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:22:59] INFO (29330 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:23] INFO (29611 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:23:23] INFO (29611 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:23:23] INFO (29611 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:23] INFO (29611 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:25] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:25] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:26] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:26] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:26] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:26] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:27] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:23:28] INFO (29662 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:25:39] INFO (30788 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:25:39] INFO (30788 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:25:39] INFO (30788 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:25:39] INFO (30788 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:10] INFO (31069 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:26:10] INFO (31069 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:26:10] INFO (31069 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:10] INFO (31069 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:29] INFO (31255 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:26:29] INFO (31255 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:26:29] INFO (31255 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:29] INFO (31255 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:37] INFO (31367 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:26:37] INFO (31367 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:26:37] INFO (31367 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:37] INFO (31367 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:44] INFO (31460 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:26:44] INFO (31460 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:26:44] INFO (31460 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:44] INFO (31460 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:47] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:47] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:48] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:48] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:48] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:48] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:48] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:48] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:49] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:26:50] INFO (31507 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:18] INFO (31821 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:27:18] INFO (31821 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:27:18] INFO (31821 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:18] INFO (31821 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:20] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:20] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:21] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:21] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:21] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:21] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:21] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:21] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:22] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:23] INFO (31868 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:27:52] INFO (32190 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:27:52] INFO (32190 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:27:52] INFO (32190 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:27:52] INFO (32190 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:28:21] INFO (32451 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:28:21] INFO (32451 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:28:21] INFO (32451 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:28:21] INFO (32451 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:28:28] INFO (32549 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:28:28] INFO (32549 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:28:28] INFO (32549 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:28:28] INFO (32549 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:28:44] INFO (32704 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:28:44] INFO (32704 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:28:44] INFO (32704 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:28:44] INFO (32704 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:28:51] INFO (32811 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:28:51] INFO (32811 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:28:51] INFO (32811 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:28:51] INFO (32811 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:02] INFO (32933 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:29:02] INFO (32933 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:29:02] INFO (32933 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:02] INFO (32933 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:09] INFO (33032 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:29:09] INFO (33032 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:29:09] INFO (33032 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:09] INFO (33032 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:15] INFO (33128 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:29:16] INFO (33128 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:29:16] INFO (33128 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:16] INFO (33128 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:17] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:17] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:18] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:18] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:19] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:19] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:19] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:19] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:19] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:19] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:20] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:21] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:21] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:21] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:21] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:29:21] INFO (33165 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:29:21] INFO (33165 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:35] INFO (36952 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:37:35] INFO (36952 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:37:35] INFO (36952 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:35] INFO (36952 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:38] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:38] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:38] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:38] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:39] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:39] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:40] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:40] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:40] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:40] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:40] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:40] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:40] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:41] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:42] INFO (36995 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:42] INFO (36995 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:37:47] INFO (37137 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:37:47] INFO (37137 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:37:47] INFO (37137 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:37:47] INFO (37137 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:14] INFO (37827 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:39:14] INFO (37827 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:39:14] INFO (37827 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:14] INFO (37827 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:17] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:17] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:18] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:18] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:18] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:18] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:19] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:20] INFO (37884 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:37] INFO (38123 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:39:37] INFO (38123 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:39:37] INFO (38123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:37] INFO (38123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:39:39] INFO (38181 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:39:39] INFO (38181 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:39:39] INFO (38181 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:39:39] INFO (38181 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:40:07] INFO (38472 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:40:07] INFO (38472 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:40:07] INFO (38472 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:40:07] INFO (38472 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:40:55] INFO (38858 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:40:55] INFO (38858 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:40:55] INFO (38858 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:40:55] INFO (38858 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:40:58] INFO (38936 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:40:58] INFO (38936 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:40:58] INFO (38936 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:40:58] INFO (38936 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:02] INFO (39013 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:41:02] INFO (39013 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:41:02] INFO (39013 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:02] INFO (39013 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:06] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:06] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:07] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:07] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:08] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:08] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:08] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:08] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:08] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:08] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:09] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:10] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:10] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:41:10] INFO (39072 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:41:10] INFO (39072 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:42:40] INFO (39832 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:42:40] INFO (39832 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:42:40] INFO (39832 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:42:40] INFO (39832 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:07] INFO (40079 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:43:07] INFO (40079 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:43:07] INFO (40079 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:07] INFO (40079 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:10] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:10] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:10] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:10] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:11] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:11] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:12] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:43:13] INFO (40123 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:44:33] INFO (40809 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:44:33] INFO (40809 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:44:33] INFO (40809 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:44:33] INFO (40809 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:44:54] INFO (41056 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:44:54] INFO (41056 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:44:54] INFO (41056 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:44:54] INFO (41056 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:15] INFO (41255 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:45:15] INFO (41255 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:45:15] INFO (41255 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:15] INFO (41255 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:19] INFO (41333 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:45:19] INFO (41333 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:45:19] INFO (41333 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:19] INFO (41333 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:25] INFO (41434 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:45:25] INFO (41434 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:45:25] INFO (41434 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:25] INFO (41434 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:26] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:26] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:27] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:27] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:32] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:32] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:33] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:45:34] INFO (41481 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:12] INFO (41960 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:46:12] INFO (41960 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:46:12] INFO (41960 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:12] INFO (41960 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:26] INFO (42098 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:46:26] INFO (42098 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:46:26] INFO (42098 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:26] INFO (42098 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:29] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:29] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:33] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:33] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:34] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:34] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:35] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:46:36] INFO (42152 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:06] INFO (42532 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:47:06] INFO (42532 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:47:06] INFO (42532 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:06] INFO (42532 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:09] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:09] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:12] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:12] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:13] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:14] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:15] INFO (42577 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:15] INFO (42577 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:47:48] INFO (42979 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:47:48] INFO (42979 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:47:48] INFO (42979 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:47:48] INFO (42979 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:48:14] INFO (43213 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:48:14] INFO (43213 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:48:14] INFO (43213 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:48:14] INFO (43213 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:48:18] INFO (43286 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:48:18] INFO (43286 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:48:18] INFO (43286 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:48:18] INFO (43286 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:48:20] INFO (43350 on Jermaines-MacBook-Pro.local): Server running on port 4000
+[2025-04-07 8:48:20] INFO (43350 on Jermaines-MacBook-Pro.local): Redis Connected!
+[2025-04-07 8:48:20] INFO (43350 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:48:20] INFO (43350 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:48:23] INFO (43383 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:48:23] INFO (43383 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started
+[2025-04-07 8:48:26] INFO (43383 on Jermaines-MacBook-Pro.local): [AMQP] connected
+[2025-04-07 8:48:26] INFO (43383 on Jermaines-MacBook-Pro.local): Journal entry queue worker has started

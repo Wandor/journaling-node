@@ -1,11 +1,15 @@
 model JournalEntry {
-  id        String    @id @default(uuid())
-  title     String
-  content   String
-  category  String
-  date      DateTime  @default(now())
-  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
-  userId    String
-  createdAt DateTime  @default(now())
-  updatedAt DateTime  @updatedAt
+  id         String            @id @default(uuid())
+  title      String?
+  content    String
+  summary    String?
+  entryDate  DateTime          @default(now())
+  createdAt  DateTime          @default(now())
+  updatedAt  DateTime          @updatedAt
+  userId     String?
+  user       User?             @relation(fields: [userId], references: [id])
+  tags       JournalEntryTag[]
+  categories JournalEntryCategory[]
+  sentiment  SentimentScore?
+  analytics  AnalyticsData?
 }

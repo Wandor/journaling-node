@@ -1,0 +1,10 @@
+model Tag {
+  id             String         @id @default(uuid())
+  name           String
+  userId         String?
+  journalEntries JournalEntryTag[]
+
+  user           User?           @relation(fields: [userId], references: [id])
+
+  @@unique([name, userId])
+}

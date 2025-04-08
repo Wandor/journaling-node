@@ -1,0 +1,8 @@
+model JournalEntryTag {
+    journalEntryId String
+    tagId          String
+    journalEntry   JournalEntry @relation(fields: [journalEntryId], references: [id], onDelete: Cascade)
+    tag            Tag          @relation(fields: [tagId], references: [id])
+
+    @@id([journalEntryId, tagId])
+}

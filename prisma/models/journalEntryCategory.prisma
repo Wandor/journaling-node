@@ -1,0 +1,8 @@
+model JournalEntryCategory {
+    journalEntryId String
+    categoryId     String
+    journalEntry   JournalEntry @relation(fields: [journalEntryId], references: [id], onDelete: Cascade)
+    category       Category     @relation(fields: [categoryId], references: [id])
+
+    @@id([journalEntryId, categoryId])
+}
